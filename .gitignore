@@ -1,1 +1,9 @@
 venv_ecom
+media/*
+migrations/*
+__pycache__/*
+*.pyc
+.env
+venv
+migrations
+__pycache__
